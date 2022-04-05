@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnLM
+  - SpawnPlayer
+  - SpawnLB2
+  - SpawnLB1
+  - Scope8x
+  - CamMiniMap_
+  - ButtonSaltarAviao
+  - PointCenter
+  - POINTGROUND
+  - RefeAlturaAvioes
+  - Ground
+  - CamPlayerScene
+  - MuniAllHud
+  - CentroSafeZone
+  - WeaponSelected
+  - MuniPentHud
+  - BulletM4
+  - PivotSZ6
+  - PivotSZ2
+  - PivotSZ5
+  - PivotSZ3
+  - PivotSZ1
+  - PivotSZ7
+  - PivotSZ8
+  - PivotSZ4
+  - HeadPlayerOcioso
+  - HeadPlayer
+  - PointParachute
+  - SpawnWeapons
+  - PivotPlayer
+  - PointHeadFiringTPGlock
+  - PointAimAWM
+  - PointAimM4
+  - PointAimAK47
+  - PointAimShotgun
+  - PointAimPTGlock
+  - LootM4
+  - LootMuni12
+  - BulletAK
+  - LootMuni556
+  - LootMuni9
+  - LootShotgun
+  - LootSmoke
+  - LootPTGlock
+  - LootGrenade
+  - LootMedKit
+  - LootMuniAWM
+  - LootAWM
+  - LootAK47
+  - AviaoAirDrop
+  - LootMuni762
+  - CamAirPlane
+  - POINTFIXEDPLAYERS
+  - InventoryScene
+  - BulletAWM
+  - DropLootPoint
+  - LootBandage
+  - LootEnergyDrink
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - TacticalMap
+  - WaterMiniMap
+  - MiniMap
+  - CameraPlayer
+  - TacticalMapMiniMap
+  - 
+  - Pos process
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
